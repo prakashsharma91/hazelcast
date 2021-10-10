@@ -26,4 +26,3 @@ roleRef:
 subjects:
   - kind: ServiceAccount
     name: hazelcast-service-account
-    namespace: terra
